@@ -4,4 +4,4 @@ This repository contains a series of introductory instructional python notebooks
 
 Those who are teaching elementary number theory, with or without the book, may be interested in using the notebooks with students.  They proceed through standard programming concepts:  variables, types, simple data structures, loops, control statements, functions.  At the same time they implement important number theoretic algorithms such as the Euclidean algorithm, prime factorization and primality testing, various algorithms in modular arithmetic, etc.
 
-All notebooks are free to download and edit under a GPLv3. Please read the LICENSE for more information.
+All notebooks are free to download and edit under a GPLv3. Please read the [LICENSE](https://github.com/MartyWeissman/Python-for-number-theory/blob/master/LICENSE) for more information.
